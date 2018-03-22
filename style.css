@@ -6,14 +6,37 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 40%;
+    padding: 25px 25px 0px 25px;
 }
+ul li{
+    display: inline;
 
+  }
 html{font-family: Helvetica, sans-serif;}
+
 h1{
-    color:DarkGreen;
+    color:whitesmoke;
     text-align: center;
+    margin-bottom: 100px;
 }
 h2{
-    color:SeaGreen;
+    color:navy;
     text-align: center;
+}
+
+body.back{
+    background-color:rgb(221, 221, 221);
+
+}
+#bk{
+    background-color: royalblue;
+}
+p{
+    margin: 25px 25px 100px 25px;
+    text-align: center;
+}
+
+p.end{
+    text-align: left;
+    margin-bottom: 25px;
 }
